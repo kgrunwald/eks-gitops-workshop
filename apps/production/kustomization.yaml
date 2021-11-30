@@ -4,4 +4,4 @@ resources:
   - ../base/podinfo
 patchesStrategicMerge:
   - podinfo-values.yaml
-  - ./s3-bucket.yaml
+  - s3-bucket.yaml
